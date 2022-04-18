@@ -1,0 +1,24 @@
+body {font-family:verdana;
+font-size:14px;
+background-image:url('images/back.png');
+}
+p {text-align:justisfy;}
+a:link,a:visited {
+color:white;
+background-color:#adae7b;}
+table {width:780px;
+background-color:white;}
+.menu {background-image:url('images/menu.jpg');
+text-align:right;
+vertical-align:middle;
+height:113px;
+color:white;
+font-weight:bold;}
+hr {color:#adae7b;
+background-color:#adae7b;
+height:4px;}
+.pansi {
+font-size:10px;
+text-align:center;
+color:white;
+background-color:#adae7b;}
